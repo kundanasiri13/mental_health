@@ -241,5 +241,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-Built with ❤️ on Sonic Blaze Testnet and Zerepy for better mental health
 </p>
+
